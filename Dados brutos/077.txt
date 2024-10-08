@@ -1,0 +1,110 @@
+Partido 10 - REPUBLICANOS
+
+Candidato
+
+10000 MARCELO PETRONE
+Votação
+6
+
+10111 JOÃO PELA
+Votação
+5
+
+10222 CLAUDIO SAMPA
+Votação
+1
+
+10666 ANISIA DO SANTO ANTONIO
+Votação
+3
+
+10789 DORINHA
+Votação
+1
+
+10999 BETINHA DE LÉ
+Votação
+6
+
+Votos de legenda: 0
+
+Total do Partido: 22
+Partido 11 - PROGRESSISTAS
+
+Candidato
+
+11112 LUIS VINICIUS DO CANTINHO
+Votação
+1
+
+Votos de legenda: 2
+
+Total do Partido: 3
+Partido 12 - Partido Democrático Trabalhista
+
+Candidato
+
+12123 TAZINHA
+Votação
+8
+
+12222 EVANDRO PINHO
+Votação
+1
+
+Votos de legenda: 1
+
+Total do Partido: 10
+Partido 15 - Movimento Democrático Brasileiro
+
+Candidato
+
+15555 HENILTON IMÓVEIS
+Votação
+1
+
+15777 ÍCARO CABELEREIRO
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 2
+Partido 18 - Rede Sustentabilidade
+
+Candidato
+
+18456 PEDINHA DO BAR
+Votação
+2
+
+18555 JADSON
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 3
+Partido 55 - Partido Social Democrático
+
+Candidato
+
+55000 JOÃO LUIZ DE NEGÃO
+Votação
+3
+
+55777 JUNIOR GARÇOM
+Votação
+4
+
+12 KINCA DIAS
+Votação
+45
+
+15 ANDERSON BRITO
+Votação
+2
+
+23 BENONI
+Votação
+2

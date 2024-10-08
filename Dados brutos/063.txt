@@ -1,0 +1,143 @@
+Partido 10 - REPUBLICANOS
+
+Candidato
+
+10000 MARCELO PETRONE
+Votação
+46
+
+10789 DORINHA
+Votação
+44
+
+10999 BETINHA DE LÉ
+Votação
+2
+
+Votos de legenda: 4
+
+Total do Partido: 96
+Partido 11 - PROGRESSISTAS
+
+Candidato
+
+Não há votos nominais
+
+Votos de legenda: 3
+
+Total do Partido: 3
+Partido 12 - Partido Democrático Trabalhista
+
+Candidato
+
+12000 EDSON MIRANDA
+Votação
+2
+
+12123 TAZINHA
+Votação
+2
+
+12200 PRISCILA MATOS
+Votação
+1
+
+12345 THIAGO DURÃES
+Votação
+2
+
+Votos de legenda: 6
+
+Total do Partido: 13
+Partido 13 - Partido dos Trabalhadores
+
+Candidato
+
+13000 TIÃO DE OLEGARIO
+Votação
+2
+
+13333 MARIA CLARA
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 3
+Partido 15 - Movimento Democrático Brasileiro
+
+Candidato
+
+15000 MOACIR OLIVEIRA
+Votação
+6
+
+15555 HENILTON IMÓVEIS
+Votação
+1
+
+Votos de legenda: 2
+
+Total do Partido: 9
+Partido 18 - Rede Sustentabilidade
+
+Candidato
+
+18000 ZEZINHO DO SALÃO
+Votação
+1
+
+18456 PEDINHA DO BAR
+Votação
+11
+
+18666 JOÃO DETETIVE
+Votação
+2
+
+18789 JO DA PADARIA
+Votação
+1
+
+Votos de legenda: 3
+
+Total do Partido: 18
+Partido 22 - Partido Liberal
+
+Candidato
+
+22222 MOREIRA
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 1
+Partido 23 - Cidadania
+
+Candidato
+
+Não há votos nominais
+
+Votos de legenda: 1
+
+Total do Partido: 1
+Partido 55 - Partido Social Democrático
+
+Candidato
+
+55777 JUNIOR GARÇOM
+Votação
+4
+
+12 KINCA DIAS
+Votação
+99
+
+15 ANDERSON BRITO
+Votação
+23
+
+23 BENONI
+Votação
+15

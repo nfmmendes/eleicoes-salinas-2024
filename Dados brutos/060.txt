@@ -1,0 +1,155 @@
+Partido 10 - REPUBLICANOS
+
+Candidato
+
+10000 MARCELO PETRONE
+Votação
+6
+
+10789 DORINHA
+Votação
+19
+
+Votos de legenda: 2
+
+Total do Partido: 27
+Partido 11 - PROGRESSISTAS
+
+Candidato
+
+11133 ORALDO MARTINS
+Votação
+1
+
+11222 WESLEY GARÇOM
+Votação
+1
+
+Votos de legenda: 1
+
+Total do Partido: 3
+Partido 12 - Partido Democrático Trabalhista
+
+Candidato
+
+12000 EDSON MIRANDA
+Votação
+10
+
+12345 THIAGO DURÃES
+Votação
+4
+
+Votos de legenda: 4
+
+Total do Partido: 18
+Partido 13 - Partido dos Trabalhadores
+
+Candidato
+
+13000 TIÃO DE OLEGARIO
+Votação
+20
+
+13321 KÉSLEY
+Votação
+3
+
+Votos de legenda: 0
+
+Total do Partido: 23
+Partido 15 - Movimento Democrático Brasileiro
+
+Candidato
+
+15333 GATINHO SARMENTO
+Votação
+9
+
+Votos de legenda: 0
+
+Total do Partido: 9
+Partido 18 - Rede Sustentabilidade
+
+Candidato
+
+18220 SERGINHO DA AUTO ELETRICA
+Votação
+1
+
+18456 PEDINHA DO BAR
+Votação
+5
+
+18666 JOÃO DETETIVE
+Votação
+3
+
+18888 BENE DA BALANÇA
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 10
+Partido 22 - Partido Liberal
+
+Candidato
+
+22444 GLAUBER DA SAÚDE
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 1
+Partido 45 - Partido da Social Democracia Brasileira
+
+Candidato
+
+45111 MAURICIO COSTA
+Votação
+1
+
+45222 GENIVALDO BARROS
+Votação
+2
+
+45777 CAROL RODRIGUES
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 4
+Partido 55 - Partido Social Democrático
+
+Candidato
+
+55123 EILTON SANTIAGO
+Votação
+10
+
+55555 ALAN MIRANDA
+Votação
+4
+
+55777 JUNIOR GARÇOM
+Votação
+1
+
+55785 CARLIM
+Votação
+1
+
+12 KINCA DIAS
+Votação
+71
+
+15 ANDERSON BRITO
+Votação
+7
+
+23 BENONI
+Votação
+23

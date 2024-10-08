@@ -1,0 +1,110 @@
+Partido 10 - REPUBLICANOS
+
+Candidato
+
+10000 MARCELO PETRONE
+Votação
+1
+
+10222 CLAUDIO SAMPA
+Votação
+3
+
+10666 ANISIA DO SANTO ANTONIO
+Votação
+2
+
+10999 BETINHA DE LÉ
+Votação
+3
+
+Votos de legenda: 0
+
+Total do Partido: 9
+Partido 11 - PROGRESSISTAS
+
+Candidato
+
+11112 LUIS VINICIUS DO CANTINHO
+Votação
+1
+
+Votos de legenda: 1
+
+Total do Partido: 2
+Partido 12 - Partido Democrático Trabalhista
+
+Candidato
+
+12123 TAZINHA
+Votação
+10
+
+Votos de legenda: 2
+
+Total do Partido: 12
+Partido 13 - Partido dos Trabalhadores
+
+Candidato
+
+13123 LEIDE DA SAÚDE
+Votação
+10
+
+Votos de legenda: 0
+
+Total do Partido: 10
+Partido 15 - Movimento Democrático Brasileiro
+
+Candidato
+
+15444 JUAREZ DO TRATOR
+Votação
+2
+
+15555 HENILTON IMÓVEIS
+Votação
+2
+
+Votos de legenda: 2
+
+Total do Partido: 6
+Partido 18 - Rede Sustentabilidade
+
+Candidato
+
+18333 MAERCIO
+Votação
+3
+
+Votos de legenda: 0
+
+Total do Partido: 3
+Partido 22 - Partido Liberal
+
+Candidato
+
+Não há votos nominais
+
+Votos de legenda: 1
+
+Total do Partido: 1
+Partido 55 - Partido Social Democrático
+
+Candidato
+
+55222 JARBINHAS
+Votação
+5
+
+12 KINCA DIAS
+Votação
+40
+
+15 ANDERSON BRITO
+Votação
+4
+
+23 BENONI
+Votação
+2

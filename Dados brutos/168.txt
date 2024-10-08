@@ -1,0 +1,148 @@
+Partido 10 - REPUBLICANOS
+
+Candidato
+
+10000 MARCELO PETRONE
+Votação
+1
+
+10100 LORIM DA PADARIA
+Votação
+21
+
+10123 MARINA SANTANA
+Votação
+1
+
+10333 ADEMIR PEDREIRO
+Votação
+1
+
+10999 BETINHA DE LÉ
+Votação
+2
+
+Votos de legenda: 0
+
+Total do Partido: 26
+Partido 12 - Partido Democrático Trabalhista
+
+Candidato
+
+12000 EDSON MIRANDA
+Votação
+1
+
+12200 PRISCILA MATOS
+Votação
+1
+
+12345 THIAGO DURÃES
+Votação
+3
+
+12444 CLEYTON GARDENAL
+Votação
+1
+
+12555 JUNIO BARBOSA
+Votação
+1
+
+Votos de legenda: 1
+
+Total do Partido: 8
+Partido 15 - Movimento Democrático Brasileiro
+
+Candidato
+
+15000 MOACIR OLIVEIRA
+Votação
+1
+
+15555 HENILTON IMÓVEIS
+Votação
+2
+
+Votos de legenda: 1
+
+Total do Partido: 4
+Partido 18 - Rede Sustentabilidade
+
+Candidato
+
+18000 ZEZINHO DO SALÃO
+Votação
+3
+
+18666 JOÃO DETETIVE
+Votação
+5
+
+Votos de legenda: 0
+
+Total do Partido: 8
+Partido 22 - Partido Liberal
+
+Candidato
+
+22122 VILSINHO
+Votação
+1
+
+22222 MOREIRA
+Votação
+1
+
+22444 GLAUBER DA SAÚDE
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 3
+Partido 23 - Cidadania
+
+Candidato
+
+23123 DAYANNE CARDOSO
+Votação
+1
+
+23777 ZE MILTON
+Votação
+1
+
+Votos de legenda: 2
+
+Total do Partido: 4
+Partido 45 - Partido da Social Democracia Brasileira
+
+Candidato
+
+45111 MAURICIO COSTA
+Votação
+3
+
+45777 CAROL RODRIGUES
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 4
+Partido 55 - Partido Social Democrático
+
+Candidato
+
+55123 EILTON SANTIAGO
+Votação
+1
+
+12 KINCA DIAS
+Votação
+26
+
+23 BENONI
+Votação
+31

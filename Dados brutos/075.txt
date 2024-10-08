@@ -1,0 +1,171 @@
+Partido 10 - REPUBLICANOS
+
+Candidato
+
+10000 MARCELO PETRONE
+Votação
+7
+
+10100 LORIM DA PADARIA
+Votação
+3
+
+10111 JOÃO PELA
+Votação
+4
+
+10123 MARINA SANTANA
+Votação
+1
+
+10789 DORINHA
+Votação
+10
+
+10999 BETINHA DE LÉ
+Votação
+3
+
+Votos de legenda: 0
+
+Total do Partido: 28
+Partido 11 - PROGRESSISTAS
+
+Candidato
+
+11123 GISELE
+Votação
+3
+
+11777 DIM DEFICIENTE VISUAL
+Votação
+1
+
+Votos de legenda: 1
+
+Total do Partido: 5
+Partido 12 - Partido Democrático Trabalhista
+
+Candidato
+
+12000 EDSON MIRANDA
+Votação
+19
+
+12200 PRISCILA MATOS
+Votação
+2
+
+12345 THIAGO DURÃES
+Votação
+10
+
+12444 CLEYTON GARDENAL
+Votação
+1
+
+12555 JUNIO BARBOSA
+Votação
+2
+
+Votos de legenda: 3
+
+Total do Partido: 37
+Partido 13 - Partido dos Trabalhadores
+
+Candidato
+
+13000 TIÃO DE OLEGARIO
+Votação
+18
+
+13321 KÉSLEY
+Votação
+2
+
+Votos de legenda: 4
+
+Total do Partido: 24
+Partido 15 - Movimento Democrático Brasileiro
+
+Candidato
+
+15000 MOACIR OLIVEIRA
+Votação
+1
+
+15555 HENILTON IMÓVEIS
+Votação
+1
+
+Votos de legenda: 1
+
+Total do Partido: 3
+Partido 18 - Rede Sustentabilidade
+
+Candidato
+
+18220 SERGINHO DA AUTO ELETRICA
+Votação
+2
+
+18555 JADSON
+Votação
+3
+
+Votos de legenda: 0
+
+Total do Partido: 5
+Partido 22 - Partido Liberal
+
+Candidato
+
+22222 MOREIRA
+Votação
+3
+
+22555 CID RODRIGUES
+Votação
+5
+
+Votos de legenda: 0
+
+Total do Partido: 8
+Partido 23 - Cidadania
+
+Candidato
+
+23777 ZE MILTON
+Votação
+1
+
+Votos de legenda: 1
+
+Total do Partido: 2
+Partido 55 - Partido Social Democrático
+
+Candidato
+
+55000 JOÃO LUIZ DE NEGÃO
+Votação
+1
+
+55123 EILTON SANTIAGO
+Votação
+1
+
+55777 JUNIOR GARÇOM
+Votação
+1
+
+12 KINCA DIAS
+Votação
+68
+
+15 ANDERSON BRITO
+Votação
+40
+
+23 BENONI
+Votação
+6

@@ -1,0 +1,135 @@
+Partido 10 - REPUBLICANOS
+
+Candidato
+
+10444 LICO DA MATRONA
+Votação
+5
+
+Votos de legenda: 0
+
+Total do Partido: 5
+Partido 11 - PROGRESSISTAS
+
+Candidato
+
+Não há votos nominais
+
+Votos de legenda: 1
+
+Total do Partido: 1
+Partido 12 - Partido Democrático Trabalhista
+
+Candidato
+
+12000 EDSON MIRANDA
+Votação
+1
+
+12123 TAZINHA
+Votação
+1
+
+12345 THIAGO DURÃES
+Votação
+124
+
+12555 JUNIO BARBOSA
+Votação
+1
+
+12777 GERALDINHO
+Votação
+4
+
+Votos de legenda: 7
+
+Total do Partido: 138
+Partido 13 - Partido dos Trabalhadores
+
+Candidato
+
+13000 TIÃO DE OLEGARIO
+Votação
+4
+
+13333 MARIA CLARA
+Votação
+1
+
+13555 ANDRE CAIRES
+Votação
+7
+
+Votos de legenda: 0
+
+Total do Partido: 12
+Partido 15 - Movimento Democrático Brasileiro
+
+Candidato
+
+15000 MOACIR OLIVEIRA
+Votação
+3
+
+Votos de legenda: 1
+
+Total do Partido: 4
+Partido 18 - Rede Sustentabilidade
+
+Candidato
+
+18000 ZEZINHO DO SALÃO
+Votação
+2
+
+18555 JADSON
+Votação
+5
+
+18888 BENE DA BALANÇA
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 8
+Partido 45 - Partido da Social Democracia Brasileira
+
+Candidato
+
+45000 ERIC ERLON
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 1
+Partido 55 - Partido Social Democrático
+
+Candidato
+
+55123 EILTON SANTIAGO
+Votação
+94
+
+55555 ALAN MIRANDA
+Votação
+1
+
+55785 CARLIM
+Votação
+5
+
+12 KINCA DIAS
+Votação
+227
+
+15 ANDERSON BRITO
+Votação
+2
+
+23 BENONI
+Votação
+32
+

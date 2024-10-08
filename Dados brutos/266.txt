@@ -1,0 +1,239 @@
+Partido 10 - REPUBLICANOS
+
+Candidato
+
+10000 MARCELO PETRONE
+Votação
+7
+
+10100 LORIM DA PADARIA
+Votação
+3
+
+10555 VERONICA CHAVES
+Votação
+3
+
+10666 ANISIA DO SANTO ANTONIO
+Votação
+2
+
+10789 DORINHA
+Votação
+3
+
+10999 BETINHA DE LÉ
+Votação
+2
+
+Votos de legenda: 0
+
+Total do Partido: 20
+Partido 11 - PROGRESSISTAS
+
+Candidato
+
+11112 LUIS VINICIUS DO CANTINHO
+Votação
+1
+
+11133 ORALDO MARTINS
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 2
+Partido 12 - Partido Democrático Trabalhista
+
+Candidato
+
+12000 EDSON MIRANDA
+Votação
+3
+
+12111 ZOIM
+Votação
+1
+
+12123 TAZINHA
+Votação
+3
+
+12200 PRISCILA MATOS
+Votação
+1
+
+12345 THIAGO DURÃES
+Votação
+8
+
+12444 CLEYTON GARDENAL
+Votação
+1
+
+12555 JUNIO BARBOSA
+Votação
+1
+
+12999 NILO DO TAXI
+Votação
+1
+
+Votos de legenda: 2
+
+Total do Partido: 21
+Partido 13 - Partido dos Trabalhadores
+
+Candidato
+
+13000 TIÃO DE OLEGARIO
+Votação
+5
+
+13321 KÉSLEY
+Votação
+1
+
+13333 MARIA CLARA
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 7
+Partido 15 - Movimento Democrático Brasileiro
+
+Candidato
+
+15000 MOACIR OLIVEIRA
+Votação
+7
+
+15555 HENILTON IMÓVEIS
+Votação
+6
+
+15777 ÍCARO CABELEREIRO
+Votação
+1
+
+Votos de legenda: 2
+
+Total do Partido: 16
+Partido 18 - Rede Sustentabilidade
+
+Candidato
+
+18000 ZEZINHO DO SALÃO
+Votação
+3
+
+18333 MAERCIO
+Votação
+3
+
+18456 PEDINHA DO BAR
+Votação
+1
+
+18555 JADSON
+Votação
+8
+
+18666 JOÃO DETETIVE
+Votação
+3
+
+18888 BENE DA BALANÇA
+Votação
+2
+
+Votos de legenda: 0
+
+Total do Partido: 20
+Partido 22 - Partido Liberal
+
+Candidato
+
+22000 LIA DE BIDA
+Votação
+1
+
+22122 VILSINHO
+Votação
+2
+
+22222 MOREIRA
+Votação
+5
+
+22444 GLAUBER DA SAÚDE
+Votação
+2
+
+22555 CID RODRIGUES
+Votação
+2
+
+Votos de legenda: 0
+
+Total do Partido: 12
+Partido 45 - Partido da Social Democracia Brasileira
+
+Candidato
+
+45000 ERIC ERLON
+Votação
+3
+
+45123 ESTÉ DO BRIGADEIRO
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 4
+Partido 55 - Partido Social Democrático
+
+Candidato
+
+55000 JOÃO LUIZ DE NEGÃO
+Votação
+5
+
+55222 JARBINHAS
+Votação
+2
+
+55555 ALAN MIRANDA
+Votação
+1
+
+55666 FABIO SALES
+Votação
+1
+
+55678 PATTY
+Votação
+1
+
+55777 JUNIOR GARÇOM
+Votação
+1
+
+55785 CARLIM
+Votação
+6
+
+12 KINCA DIAS
+Votação
+76
+
+15 ANDERSON BRITO
+Votação
+14
+
+23 BENONI
+Votação
+26

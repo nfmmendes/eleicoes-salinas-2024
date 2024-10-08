@@ -1,0 +1,208 @@
+Partido 10 - REPUBLICANOS
+
+Candidato
+
+10000 MARCELO PETRONE
+Votação
+17
+
+10111 JOÃO PELA
+Votação
+70
+
+10222 CLAUDIO SAMPA
+Votação
+8
+
+10333 ADEMIR PEDREIRO
+Votação
+2
+
+10555 VERONICA CHAVES
+Votação
+11
+
+10666 ANISIA DO SANTO ANTONIO
+Votação
+2
+
+10777 VALDECIR BADEGA
+Votação
+1
+
+10999 BETINHA DE LÉ
+Votação
+17
+
+Votos de legenda: 3
+
+Total do Partido: 131
+Partido 11 - PROGRESSISTAS
+
+Candidato
+
+11133 ORALDO MARTINS
+Votação
+1
+
+Votos de legenda: 2
+
+Total do Partido: 3
+Partido 12 - Partido Democrático Trabalhista
+
+Candidato
+
+12000 EDSON MIRANDA
+Votação
+3
+
+12123 TAZINHA
+Votação
+50
+
+12233 SOLY
+Votação
+1
+
+12345 THIAGO DURÃES
+Votação
+5
+
+12444 CLEYTON GARDENAL
+Votação
+3
+
+Votos de legenda: 6
+
+Total do Partido: 68
+Partido 13 - Partido dos Trabalhadores
+
+Candidato
+
+13333 MARIA CLARA
+Votação
+3
+
+Votos de legenda: 0
+
+Total do Partido: 3
+Partido 15 - Movimento Democrático Brasileiro
+
+Candidato
+
+15000 MOACIR OLIVEIRA
+Votação
+7
+
+15333 GATINHO SARMENTO
+Votação
+1
+
+15444 JUAREZ DO TRATOR
+Votação
+13
+
+15555 HENILTON IMÓVEIS
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 22
+Partido 18 - Rede Sustentabilidade
+
+Candidato
+
+18000 ZEZINHO DO SALÃO
+Votação
+9
+
+18111 LUCAS BAIXINHO
+Votação
+1
+
+18444 CIDA
+Votação
+2
+
+18456 PEDINHA DO BAR
+Votação
+1
+
+18555 JADSON
+Votação
+1
+
+18666 JOÃO DETETIVE
+Votação
+6
+
+18789 JO DA PADARIA
+Votação
+1
+
+18888 BENE DA BALANÇA
+Votação
+1
+
+Votos de legenda: 1
+
+Total do Partido: 23
+Partido 22 - Partido Liberal
+
+Candidato
+
+22444 GLAUBER DA SAÚDE
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 1
+Partido 23 - Cidadania
+
+Candidato
+
+Não há votos nominais
+
+Votos de legenda: 1
+
+Total do Partido: 1
+Partido 45 - Partido da Social Democracia Brasileira
+
+Candidato
+
+45000 ERIC ERLON
+Votação
+2
+
+Votos de legenda: 1
+
+Total do Partido: 3
+Partido 55 - Partido Social Democrático
+
+Candidato
+
+55000 JOÃO LUIZ DE NEGÃO
+Votação
+2
+
+55123 EILTON SANTIAGO
+Votação
+3
+
+55777 JUNIOR GARÇOM
+Votação
+2
+
+12 KINCA DIAS
+Votação
+180
+
+15 ANDERSON BRITO
+Votação
+15
+
+23 BENONI
+Votação
+41

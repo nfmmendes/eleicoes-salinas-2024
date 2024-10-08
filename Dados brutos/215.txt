@@ -1,0 +1,105 @@
+Partido 10 - REPUBLICANOS
+
+Candidato
+
+10000 MARCELO PETRONE
+Votação
+11
+
+10111 JOÃO PELA
+Votação
+4
+
+10789 DORINHA
+Votação
+10
+
+Votos de legenda: 2
+
+Total do Partido: 27
+Partido 11 - PROGRESSISTAS
+
+Candidato
+
+11222 WESLEY GARÇOM
+Votação
+2
+
+Votos de legenda: 0
+
+Total do Partido: 2
+Partido 12 - Partido Democrático Trabalhista
+
+Candidato
+
+12345 THIAGO DURÃES
+Votação
+2
+
+Votos de legenda: 0
+
+Total do Partido: 2
+Partido 15 - Movimento Democrático Brasileiro
+
+Candidato
+
+15000 MOACIR OLIVEIRA
+Votação
+1
+
+15015 ELIETE SILVEIRA
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 2
+Partido 18 - Rede Sustentabilidade
+
+Candidato
+
+18000 ZEZINHO DO SALÃO
+Votação
+2
+
+18555 JADSON
+Votação
+3
+
+Votos de legenda: 0
+
+Total do Partido: 5
+Partido 45 - Partido da Social Democracia Brasileira
+
+Candidato
+
+45000 ERIC ERLON
+Votação
+2
+
+Votos de legenda: 0
+
+Total do Partido: 2
+Partido 55 - Partido Social Democrático
+
+Candidato
+
+55123 EILTON SANTIAGO
+Votação
+18
+
+55785 CARLIM
+Votação
+1
+
+12 KINCA DIAS
+Votação
+29
+
+15 ANDERSON BRITO
+Votação
+7
+
+23 BENONI
+Votação
+23

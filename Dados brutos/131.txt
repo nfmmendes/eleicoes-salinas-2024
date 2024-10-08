@@ -1,0 +1,310 @@
+Partido 10 - REPUBLICANOS
+
+Candidato
+
+10000 MARCELO PETRONE
+Votação
+20
+
+10100 LORIM DA PADARIA
+Votação
+3
+
+10111 JOÃO PELA
+Votação
+5
+
+10333 ADEMIR PEDREIRO
+Votação
+1
+
+10555 VERONICA CHAVES
+Votação
+1
+
+10777 VALDECIR BADEGA
+Votação
+2
+
+10789 DORINHA
+Votação
+7
+
+10999 BETINHA DE LÉ
+Votação
+5
+
+Votos de legenda: 1
+
+Total do Partido: 45
+Partido 11 - PROGRESSISTAS
+
+Candidato
+
+11112 LUIS VINICIUS DO CANTINHO
+Votação
+2
+
+11133 ORALDO MARTINS
+Votação
+1
+
+11777 DIM DEFICIENTE VISUAL
+Votação
+1
+
+Votos de legenda: 1
+
+Total do Partido: 5
+Partido 12 - Partido Democrático Trabalhista
+
+Candidato
+
+12000 EDSON MIRANDA
+Votação
+1
+
+12123 TAZINHA
+Votação
+2
+
+12200 PRISCILA MATOS
+Votação
+2
+
+12222 EVANDRO PINHO
+Votação
+3
+
+12300 GIL PAGÓLE
+Votação
+2
+
+12333 NADIA FRANCO
+Votação
+3
+
+12345 THIAGO DURÃES
+Votação
+2
+
+12555 JUNIO BARBOSA
+Votação
+33
+
+12666 PALOMA PIPOQUINHA
+Votação
+1
+
+12999 NILO DO TAXI
+Votação
+2
+
+Votos de legenda: 4
+
+Total do Partido: 55
+Partido 13 - Partido dos Trabalhadores
+
+Candidato
+
+13000 TIÃO DE OLEGARIO
+Votação
+3
+
+13222 NINHÃO
+Votação
+1
+
+13321 KÉSLEY
+Votação
+3
+
+13333 MARIA CLARA
+Votação
+7
+
+13666 AGNELO MEDINA
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 15
+Partido 15 - Movimento Democrático Brasileiro
+
+Candidato
+
+15000 MOACIR OLIVEIRA
+Votação
+6
+
+15555 HENILTON IMÓVEIS
+Votação
+3
+
+15777 ÍCARO CABELEREIRO
+Votação
+3
+
+15839 GERALDO DO PINCH
+Votação
+1
+
+Votos de legenda: 3
+
+Total do Partido: 16
+Partido 18 - Rede Sustentabilidade
+
+Candidato
+
+18000 ZEZINHO DO SALÃO
+Votação
+22
+
+18222 LETICIA ASSISTENTE SOCIAL
+Votação
+1
+
+18333 MAERCIO
+Votação
+1
+
+18456 PEDINHA DO BAR
+Votação
+2
+
+18555 JADSON
+Votação
+5
+
+18666 JOÃO DETETIVE
+Votação
+14
+
+Votos de legenda: 2
+
+Total do Partido: 47
+Partido 22 - Partido Liberal
+
+Candidato
+
+22000 LIA DE BIDA
+Votação
+4
+
+22111 CLAUDINHA
+Votação
+2
+
+22123 VAGNER DA DENGUE
+Votação
+1
+
+22222 MOREIRA
+Votação
+10
+
+22333 PEU
+Votação
+1
+
+22444 GLAUBER DA SAÚDE
+Votação
+1
+
+22555 CID RODRIGUES
+Votação
+3
+
+22777 SAMUEL RODRIGUES
+Votação
+2
+
+Votos de legenda: 0
+
+Total do Partido: 24
+Partido 23 - Cidadania
+
+Candidato
+
+23123 DAYANNE CARDOSO
+Votação
+1
+
+23777 ZE MILTON
+Votação
+1
+
+Votos de legenda: 2
+
+Total do Partido: 4
+Partido 45 - Partido da Social Democracia Brasileira
+
+Candidato
+
+45000 ERIC ERLON
+Votação
+6
+
+45111 MAURICIO COSTA
+Votação
+2
+
+45555 ELIANY MAE ATIPICA
+Votação
+1
+
+45678 FABIO SOUZA
+Votação
+1
+
+45777 CAROL RODRIGUES
+Votação
+2
+
+Votos de legenda: 0
+
+Total do Partido: 12
+Partido 55 - Partido Social Democrático
+
+Candidato
+
+55000 JOÃO LUIZ DE NEGÃO
+Votação
+25
+
+55123 EILTON SANTIAGO
+Votação
+7
+
+55222 JARBINHAS
+Votação
+4
+
+55678 PATTY
+Votação
+2
+
+55777 JUNIOR GARÇOM
+Votação
+9
+
+55785 CARLIM
+Votação
+6
+
+55999 SELMA MORENA
+Votação
+1
+
+12 KINCA DIAS
+Votação
+166
+
+15 ANDERSON BRITO
+Votação
+36
+
+23 BENONI
+Votação
+74

@@ -1,0 +1,205 @@
+Partido 10 - REPUBLICANOS
+
+Candidato
+
+10000 MARCELO PETRONE
+Votação
+40
+
+10100 LORIM DA PADARIA
+Votação
+43
+
+10111 JOÃO PELA
+Votação
+3
+
+10222 CLAUDIO SAMPA
+Votação
+2
+
+10555 VERONICA CHAVES
+Votação
+2
+
+10789 DORINHA
+Votação
+2
+
+10999 BETINHA DE LÉ
+Votação
+4
+
+Votos de legenda: 5
+
+Total do Partido: 101
+Partido 11 - PROGRESSISTAS
+
+Candidato
+
+Não há votos nominais
+
+Votos de legenda: 1
+
+Total do Partido: 1
+Partido 12 - Partido Democrático Trabalhista
+
+Candidato
+
+12000 EDSON MIRANDA
+Votação
+1
+
+12345 THIAGO DURÃES
+Votação
+1
+
+12555 JUNIO BARBOSA
+Votação
+9
+
+12666 PALOMA PIPOQUINHA
+Votação
+1
+
+Votos de legenda: 4
+
+Total do Partido: 16
+Partido 13 - Partido dos Trabalhadores
+
+Candidato
+
+13000 TIÃO DE OLEGARIO
+Votação
+12
+
+13111 MESSIAS
+Votação
+1
+
+13222 NINHÃO
+Votação
+1
+
+13333 MARIA CLARA
+Votação
+9
+
+13555 ANDRE CAIRES
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 24
+Partido 15 - Movimento Democrático Brasileiro
+
+Candidato
+
+15000 MOACIR OLIVEIRA
+Votação
+1
+
+15250 ELLEN JÉSSICA
+Votação
+2
+
+15555 HENILTON IMÓVEIS
+Votação
+4
+
+Votos de legenda: 4
+
+Total do Partido: 11
+Partido 18 - Rede Sustentabilidade
+
+Candidato
+
+18123 RUBINHO ENFERMEIRO
+Votação
+1
+
+18222 LETICIA ASSISTENTE SOCIAL
+Votação
+1
+
+18333 MAERCIO
+Votação
+1
+
+18456 PEDINHA DO BAR
+Votação
+2
+
+18555 JADSON
+Votação
+1
+
+Votos de legenda: 1
+
+Total do Partido: 7
+Partido 22 - Partido Liberal
+
+Candidato
+
+22222 MOREIRA
+Votação
+3
+
+Votos de legenda: 0
+
+Total do Partido: 3
+Partido 45 - Partido da Social Democracia Brasileira
+
+Candidato
+
+45000 ERIC ERLON
+Votação
+1
+
+45222 GENIVALDO BARROS
+Votação
+2
+
+Votos de legenda: 0
+
+Total do Partido: 3
+Partido 55 - Partido Social Democrático
+
+Candidato
+
+55000 JOÃO LUIZ DE NEGÃO
+Votação
+3
+
+55123 EILTON SANTIAGO
+Votação
+1
+
+55222 JARBINHAS
+Votação
+1
+
+55666 FABIO SALES
+Votação
+1
+
+55777 JUNIOR GARÇOM
+Votação
+2
+
+55785 CARLIM
+Votação
+1
+
+12 KINCA DIAS
+Votação
+118
+
+15 ANDERSON BRITO
+Votação
+11
+
+23 BENONI
+Votação
+37

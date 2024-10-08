@@ -1,0 +1,128 @@
+Partido 10 - REPUBLICANOS
+
+Candidato
+
+10000 MARCELO PETRONE
+Votação
+2
+
+10100 LORIM DA PADARIA
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 3
+Partido 12 - Partido Democrático Trabalhista
+
+Candidato
+
+12123 TAZINHA
+Votação
+4
+
+12345 THIAGO DURÃES
+Votação
+115
+
+12777 GERALDINHO
+Votação
+1
+
+Votos de legenda: 5
+
+Total do Partido: 125
+Partido 13 - Partido dos Trabalhadores
+
+Candidato
+
+13555 ANDRE CAIRES
+Votação
+4
+
+Votos de legenda: 0
+
+Total do Partido: 4
+Partido 15 - Movimento Democrático Brasileiro
+
+Candidato
+
+15000 MOACIR OLIVEIRA
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 1
+Partido 18 - Rede Sustentabilidade
+
+Candidato
+
+18000 ZEZINHO DO SALÃO
+Votação
+1
+
+18111 LUCAS BAIXINHO
+Votação
+1
+
+18789 JO DA PADARIA
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 3
+Partido 22 - Partido Liberal
+
+Candidato
+
+22222 MOREIRA
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 1
+Partido 23 - Cidadania
+
+Candidato
+
+23123 DAYANNE CARDOSO
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 1
+Partido 55 - Partido Social Democrático
+
+Candidato
+
+55000 JOÃO LUIZ DE NEGÃO
+Votação
+2
+
+55123 EILTON SANTIAGO
+Votação
+15
+
+55777 JUNIOR GARÇOM
+Votação
+1
+
+55785 CARLIM
+Votação
+6
+
+12 KINCA DIAS
+Votação
+122
+
+15 ANDERSON BRITO
+Votação
+11
+
+23 BENONI
+Votação
+26

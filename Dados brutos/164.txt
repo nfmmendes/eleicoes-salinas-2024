@@ -1,0 +1,73 @@
+Partido 10 - REPUBLICANOS
+
+Candidato
+
+10999 BETINHA DE LÉ
+Votação
+2
+
+Votos de legenda: 0
+
+Total do Partido: 2
+Partido 11 - PROGRESSISTAS
+
+Candidato
+
+Não há votos nominais
+
+Votos de legenda: 2
+
+Total do Partido: 2
+Partido 12 - Partido Democrático Trabalhista
+
+Candidato
+
+12000 EDSON MIRANDA
+Votação
+83
+
+12200 PRISCILA MATOS
+Votação
+1
+
+12345 THIAGO DURÃES
+Votação
+13
+
+Votos de legenda: 1
+
+Total do Partido: 98
+Partido 13 - Partido dos Trabalhadores
+
+Candidato
+
+13333 MARIA CLARA
+Votação
+4
+
+Votos de legenda: 0
+
+Total do Partido: 4
+Partido 18 - Rede Sustentabilidade
+
+Candidato
+
+18000 ZEZINHO DO SALÃO
+Votação
+1
+
+18555 JADSON
+Votação
+7
+
+12 KINCA DIAS
+Votação
+105
+
+15 ANDERSON BRITO
+Votação
+2
+
+23 BENONI
+Votação
+5

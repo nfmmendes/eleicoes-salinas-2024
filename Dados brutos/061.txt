@@ -1,0 +1,166 @@
+Partido 10 - REPUBLICANOS
+
+Candidato
+
+10000 MARCELO PETRONE
+Votação
+12
+
+10111 JOÃO PELA
+Votação
+15
+
+10123 MARINA SANTANA
+Votação
+1
+
+10222 CLAUDIO SAMPA
+Votação
+1
+
+10666 ANISIA DO SANTO ANTONIO
+Votação
+7
+
+10789 DORINHA
+Votação
+5
+
+10999 BETINHA DE LÉ
+Votação
+15
+
+Votos de legenda: 1
+
+Total do Partido: 57
+Partido 11 - PROGRESSISTAS
+
+Candidato
+
+11112 LUIS VINICIUS DO CANTINHO
+Votação
+14
+
+Votos de legenda: 2
+
+Total do Partido: 16
+Partido 12 - Partido Democrático Trabalhista
+
+Candidato
+
+12000 EDSON MIRANDA
+Votação
+2
+
+12123 TAZINHA
+Votação
+28
+
+12233 SOLY
+Votação
+1
+
+12345 THIAGO DURÃES
+Votação
+4
+
+12999 NILO DO TAXI
+Votação
+1
+
+Votos de legenda: 4
+
+Total do Partido: 40
+Partido 13 - Partido dos Trabalhadores
+
+Candidato
+
+13321 KÉSLEY
+Votação
+1
+
+13333 MARIA CLARA
+Votação
+3
+
+Votos de legenda: 0
+
+Total do Partido: 4
+Partido 15 - Movimento Democrático Brasileiro
+
+Candidato
+
+15000 MOACIR OLIVEIRA
+Votação
+3
+
+15555 HENILTON IMÓVEIS
+Votação
+6
+
+Votos de legenda: 0
+
+Total do Partido: 9
+Partido 18 - Rede Sustentabilidade
+
+Candidato
+
+18333 MAERCIO
+Votação
+1
+
+18666 JOÃO DETETIVE
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 2
+Partido 22 - Partido Liberal
+
+Candidato
+
+22000 LIA DE BIDA
+Votação
+1
+
+22123 VAGNER DA DENGUE
+Votação
+1
+
+22555 CID RODRIGUES
+Votação
+1
+
+Votos de legenda: 0
+
+Total do Partido: 3
+Partido 55 - Partido Social Democrático
+
+Candidato
+
+55222 JARBINHAS
+Votação
+2
+
+55777 JUNIOR GARÇOM
+Votação
+1
+
+55785 CARLIM
+Votação
+2
+
+Candidato
+
+12 KINCA DIAS
+Votação
+93
+
+15 ANDERSON BRITO
+Votação
+9
+
+23 BENONI
+Votação
+26
