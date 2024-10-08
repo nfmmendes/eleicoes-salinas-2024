@@ -1,7 +1,7 @@
 EE Idalino Ribeiro;28;26;30;254;262;41;40;108;134;39;104;258;110;102;27;29
 EE Elidio Duque;25;131;22;115;109;119;186;261;24;206;23;238;268
 EE Prediliano Santana;124;121;187;257;260;132;212;118;252;237;267
-EE Levindo Lambert;45;48;111;122;144;47;46;49;117;264
+EE Levindo Lambert;45;48;111;122;44;47;46;49;117;264
 EM Aurea de Paula;214;146;190;174;228;245;266
 EE Joao Porfirio;32;31;37;38;33;34;35;36
 EE Manoel Pedro Silva;93;114;95;92;94
@@ -14,12 +14,12 @@ EM Francisco Pereira da Silva;88
 EM Jacurutu;188;75
 EM Alfim Ferreira Mendes;96
 EM Canela Dema;144
-EM Baixa Grande;57
+EM Baixa Grande;56
 EM Taboleiro;86
 EM Sebastião Moreira da Silva;142
 Conselho Comunitario Canela D'Ema;220
 Associação Rural Rio das Antas;247
-EM Boqueirão Alto;255
+EM Boqueirão Alto;55
 EM Antonio dos Anjos;60
 AMUSA;239
 Associação Rural da Barra do Rio;164

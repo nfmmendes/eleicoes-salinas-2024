@@ -131,9 +131,9 @@
 129;EE Levindo Lambert;122;KINCA DIAS;155
 130;EE Levindo Lambert;122;ANDERSON BRITO;40
 131;EE Levindo Lambert;122;BENONI;65
-132;EE Levindo Lambert;144;KINCA DIAS;170
-133;EE Levindo Lambert;144;ANDERSON BRITO;16
-134;EE Levindo Lambert;144;BENONI;36
+132;EE Levindo Lambert;44;KINCA DIAS;161
+133;EE Levindo Lambert;44;ANDERSON BRITO;22
+134;EE Levindo Lambert;44;BENONI;56
 135;EE Levindo Lambert;47;KINCA DIAS;137
 136;EE Levindo Lambert;47;ANDERSON BRITO;32
 137;EE Levindo Lambert;47;BENONI;75
@@ -266,53 +266,59 @@
 264;EM Canela Dema;144;KINCA DIAS;170
 265;EM Canela Dema;144;ANDERSON BRITO;16
 266;EM Canela Dema;144;BENONI;36
-267;EM Taboleiro;86;KINCA DIAS;118
-268;EM Taboleiro;86;ANDERSON BRITO;11
-269;EM Taboleiro;86;BENONI;37
-270;EM Sebastião Moreira da Silva;142;KINCA DIAS;79
-271;EM Sebastião Moreira da Silva;142;ANDERSON BRITO;16
-272;EM Sebastião Moreira da Silva;142;BENONI;65
-273;Conselho Comunitario Canela D'Ema;220;KINCA DIAS;125
-274;Conselho Comunitario Canela D'Ema;220;ANDERSON BRITO;9
-275;Conselho Comunitario Canela D'Ema;220;BENONI;32
-276;Associação Rural Rio das Antas;247;KINCA DIAS;122
-277;Associação Rural Rio das Antas;247;ANDERSON BRITO;11
-278;Associação Rural Rio das Antas;247;BENONI;26
-279;EM Antonio dos Anjos;60;KINCA DIAS;71
-280;EM Antonio dos Anjos;60;ANDERSON BRITO;7
-281;EM Antonio dos Anjos;60;BENONI;23
-282;AMUSA;239;KINCA DIAS;52
-283;AMUSA;239;ANDERSON BRITO;5
-284;AMUSA;239;BENONI;21
-285;Associação Rural da Barra do Rio;164;KINCA DIAS;105
-286;Associação Rural da Barra do Rio;164;ANDERSON BRITO;2
-287;Associação Rural da Barra do Rio;164;BENONI;5
-288;Associação Corrego da Empoeira;145;KINCA DIAS;48
-289;Associação Corrego da Empoeira;145;ANDERSON BRITO;7
-290;Associação Corrego da Empoeira;145;BENONI;21
-291;Associação de Laje;236;KINCA DIAS;46
-292;Associação de Laje;236;ANDERSON BRITO;5
-293;Associação de Laje;236;BENONI;33
-294;EM Formosa;215;KINCA DIAS;29
-295;EM Formosa;215;ANDERSON BRITO;7
-296;EM Formosa;215;BENONI;23
-297;Associação Boqueirão Medio;59;KINCA DIAS;32
-298;Associação Boqueirão Medio;59;ANDERSON BRITO;19
-299;Associação Boqueirão Medio;59;BENONI;9
-300;EM Lajinha;77;KINCA DIAS;45
-301;EM Lajinha;77;ANDERSON BRITO;2
-302;EM Lajinha;77;BENONI;2
-303;Associação Barreiros;143;KINCA DIAS;41
-304;Associação Barreiros;143;ANDERSON BRITO;4
-305;Associação Barreiros;143;BENONI;8
-306;Associação Boqueirão Baixo;256;KINCA DIAS;40
-307;Associação Boqueirão Baixo;256;ANDERSON BRITO;4
-308;Associação Boqueirão Baixo;256;BENONI;2
-309;EM Sucesso;170;KINCA DIAS;20
-310;EM Sucesso;170;ANDERSON BRITO;4
-311;EM Sucesso;170;BENONI;30
-312;Associação Caiçara;168;KINCA DIAS;26
-313;Associação Caiçara;168;BENONI;31
-314;Associação Pinhãozeiro;158;KINCA DIAS;30
-315;Associação Pinhãozeiro;158;ANDERSON BRITO;3
-316;Associação Pinhãozeiro;158;BENONI;9
+267;EM Baixa Grande;56;KINCA DIAS;114
+268;EM Baixa Grande;56;ANDERSON BRITO;20
+269;EM Baixa Grande;56;BENONI;31
+270;EM Taboleiro;86;KINCA DIAS;118
+271;EM Taboleiro;86;ANDERSON BRITO;11
+272;EM Taboleiro;86;BENONI;37
+273;EM Sebastião Moreira da Silva;142;KINCA DIAS;79
+274;EM Sebastião Moreira da Silva;142;ANDERSON BRITO;16
+275;EM Sebastião Moreira da Silva;142;BENONI;65
+276;Conselho Comunitario Canela D'Ema;220;KINCA DIAS;125
+277;Conselho Comunitario Canela D'Ema;220;ANDERSON BRITO;9
+278;Conselho Comunitario Canela D'Ema;220;BENONI;32
+279;Associação Rural Rio das Antas;247;KINCA DIAS;122
+280;Associação Rural Rio das Antas;247;ANDERSON BRITO;11
+281;Associação Rural Rio das Antas;247;BENONI;26
+282;EM Boqueirão Alto;55;KINCA DIAS;102
+283;EM Boqueirão Alto;55;ANDERSON BRITO;24
+284;EM Boqueirão Alto;55;BENONI;21
+285;EM Antonio dos Anjos;60;KINCA DIAS;71
+286;EM Antonio dos Anjos;60;ANDERSON BRITO;7
+287;EM Antonio dos Anjos;60;BENONI;23
+288;AMUSA;239;KINCA DIAS;52
+289;AMUSA;239;ANDERSON BRITO;5
+290;AMUSA;239;BENONI;21
+291;Associação Rural da Barra do Rio;164;KINCA DIAS;105
+292;Associação Rural da Barra do Rio;164;ANDERSON BRITO;2
+293;Associação Rural da Barra do Rio;164;BENONI;5
+294;Associação Corrego da Empoeira;145;KINCA DIAS;48
+295;Associação Corrego da Empoeira;145;ANDERSON BRITO;7
+296;Associação Corrego da Empoeira;145;BENONI;21
+297;Associação de Laje;236;KINCA DIAS;46
+298;Associação de Laje;236;ANDERSON BRITO;5
+299;Associação de Laje;236;BENONI;33
+300;EM Formosa;215;KINCA DIAS;29
+301;EM Formosa;215;ANDERSON BRITO;7
+302;EM Formosa;215;BENONI;23
+303;Associação Boqueirão Medio;59;KINCA DIAS;32
+304;Associação Boqueirão Medio;59;ANDERSON BRITO;19
+305;Associação Boqueirão Medio;59;BENONI;9
+306;EM Lajinha;77;KINCA DIAS;45
+307;EM Lajinha;77;ANDERSON BRITO;2
+308;EM Lajinha;77;BENONI;2
+309;Associação Barreiros;143;KINCA DIAS;41
+310;Associação Barreiros;143;ANDERSON BRITO;4
+311;Associação Barreiros;143;BENONI;8
+312;Associação Boqueirão Baixo;256;KINCA DIAS;40
+313;Associação Boqueirão Baixo;256;ANDERSON BRITO;4
+314;Associação Boqueirão Baixo;256;BENONI;2
+315;EM Sucesso;170;KINCA DIAS;20
+316;EM Sucesso;170;ANDERSON BRITO;4
+317;EM Sucesso;170;BENONI;30
+318;Associação Caiçara;168;KINCA DIAS;26
+319;Associação Caiçara;168;BENONI;31
+320;Associação Pinhãozeiro;158;KINCA DIAS;30
+321;Associação Pinhãozeiro;158;ANDERSON BRITO;3
+322;Associação Pinhãozeiro;158;BENONI;9
